@@ -8,9 +8,9 @@ A pasta `codigos_base` contém todos os arquivos com os códigos base utilizados
 ### Materiais de cada vídeo
 - **Conceitos básicos:**
   - [#1 - Primeiro Script: Hello world!](https://github.com/xavecoding/python-essencial-para-data-science/blob/main/hello_world.py)
-  - [#2 - Variáveis e tipos](https://github.com/xavecoding/python-essencial-para-data-science/blob/main/01_variaveis_e_tipos.ipynb)
-  - [#3 - Atribuição múltipla e casting](https://github.com/xavecoding/python-essencial-para-data-science/blob/main/01_variaveis_e_tipos.ipynb)
-  - [#4 - Operadores aritméticos e print](https://github.com/xavecoding/python-essencial-para-data-science/blob/main/01_variaveis_e_tipos.ipynb)
+  - [#2 - Variáveis e tipos](https://github.com/tadeupaes/Introducao_Python/blob/main/01_variaveis_e_tipos.ipynb)
+  - [#3 - Atribuição múltipla e casting](https://github.com/tadeupaes/Introducao_Python/blob/main/01_variaveis_e_tipos.ipynb)
+  - [#4 - Operadores aritméticos e print](https://github.com/tadeupaes/Introducao_Python/blob/main/01_variaveis_e_tipos.ipynb)
 - **Funções:**
   - [#5 - Funções](https://github.com/xavecoding/python-essencial-para-data-science/blob/main/02_funcoes.ipynb)
   - [#6 - Escopo e argumentos default](https://github.com/xavecoding/python-essencial-para-data-science/blob/main/02_funcoes.ipynb)
