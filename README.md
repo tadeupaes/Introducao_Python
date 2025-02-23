@@ -1,6 +1,6 @@
-## Python Essencial para Data Science
+## Python Essencial 
 
-Este material apresenta os códigos do curso **[Python Essencial para Data Science]**.
+Este material apresenta os códigos do curso **[Python Essencial]**.
 
 **Professor:* Tadeu Marcos B Paes
 
